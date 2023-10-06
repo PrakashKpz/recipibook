@@ -1,0 +1,5 @@
+recipie name:burger 
+ingridients
+bun 2
+cutlet
+salt 2 spoon
