@@ -3,3 +3,5 @@ ingridients
 bun 2
 cutlet
 salt 2 spoon
+onion 2kg
+tomato
